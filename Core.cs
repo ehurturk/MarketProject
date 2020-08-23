@@ -131,7 +131,7 @@ namespace MarketProject
                     Console.WriteLine(item.name);
                     Console.WriteLine("----------");
                 }
-
+                //COMMENTEDD!!
                 if (playerEconomy.money > 0)
                 {
                     Console.WriteLine("Do you want to buy something else? (y/n)");
