@@ -1,0 +1,12 @@
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/bin/Debug/netcoreapp3.1/MarketProject.deps.json
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/bin/Debug/netcoreapp3.1/MarketProject.runtimeconfig.json
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/bin/Debug/netcoreapp3.1/MarketProject.runtimeconfig.dev.json
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/bin/Debug/netcoreapp3.1/MarketProject.dll
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/bin/Debug/netcoreapp3.1/MarketProject.pdb
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/obj/Debug/netcoreapp3.1/MarketProject.csprojAssemblyReference.cache
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/obj/Debug/netcoreapp3.1/MarketProject.AssemblyInfoInputs.cache
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/obj/Debug/netcoreapp3.1/MarketProject.AssemblyInfo.cs
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/obj/Debug/netcoreapp3.1/MarketProject.csproj.CoreCompileInputs.cache
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/obj/Debug/netcoreapp3.1/MarketProject.dll
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/obj/Debug/netcoreapp3.1/MarketProject.pdb
+/Users/emirhurturk/RiderProjects/ConsoleApp1/MarketProject/obj/Debug/netcoreapp3.1/MarketProject.genruntimeconfig.cache
